@@ -1,2 +1,2 @@
-A heart disease study based on the data from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V.
+A heart disease study based on the data from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. <br/>
 The data can be found at: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
